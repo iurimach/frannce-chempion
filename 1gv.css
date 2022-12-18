@@ -1,0 +1,178 @@
+.moedani{
+    width: 900px;
+    height: 600px;
+    position: absolute;
+}
+
+.messi{
+    width: 140px;
+    position: relative;
+    top: 100px;
+    left: 200px;
+    animation-name: sirbili;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    z-index: 10;
+}
+@keyframes sirbili{
+    0%{top:80px; left: 200px; }
+    10%{top:80px; left: 270px; }
+    15% {top:60px; left: 360px; }
+    20% {top:60px; left: 480px; }
+    25% {top:60px; left: 560px; }
+    30% {top:70px; left: 660px; }
+    35% {top:70px; left: 700px; }
+
+    40% {top:75px; left: 700px; }
+    45%{top:80px; left: 670px; }
+    50% {top:85px; left: 650px; }
+    55% {top:95px; left: 630px; }
+    60% {top:105px; left: 600px; }
+    65% {top:115px; left: 580px; }
+    70% {top:125px; left: 580px; }
+    75% {top:125px; left: 580px; }
+    80% {top:145px; left: 590px; }
+    85% {top:165px; left: 590px; }
+    90%{top:175px; left: 590px; }
+    95% {top:115px; left: 640px; }
+    100% {top:100px; left: 660px; }
+
+    
+    
+    
+}
+
+.burti{
+    width: 40px;
+    position: relative;
+    top: 220px;
+    left: 270px;
+    animation-name: burti;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+@keyframes burti{
+    0%{top:60px; left: 240px; }
+    10%{top:60px; left: 280px; }
+    15% {top:40px; left: 380px; }
+    20% {top:40px; left: 489px; }
+    25% {top:40px; left: 580px; }
+    30% {top:50px; left: 669px; }
+    35% {top:50px; left: 750px; }
+
+    40% {top:55px; left: 700px; }
+    45%{top:60px; left: 670px; }
+    50% {top:65px; left: 650px; }
+    55% {top:65px; left: 630px; }
+    60% {top:75px; left: 600px; }
+    65% {top:85px; left: 580px; }
+    70% {top:85px; left: 580px; }
+    75% {top:85px; left: 580px; }
+    80% {top:98px; left: 590px; }
+    85% {top:125px; left: 590px; }
+    90%{top:145px; left: 590px; }
+    95% {top:105px; left: 640px; }
+    100% {top:160px; left: 770px; }
+
+    
+    
+
+}
+.mekare{
+    width: 110px;
+    position: relative;
+    top: 150px;
+    left: 640px;
+    animation-name:mekare; 
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes mekare{
+    0% {top:150px; left: 640px; }
+    20% {top:150px; left: 640px; }
+    30% {top:150px; left: 645px; }
+    40% {top:150px; left: 658px; }
+    50% {top:150px; left: 665px; }
+    60% {top:150px; left: 680px; }
+    70% {top:150px; left: 710px; }
+    80% {top:150px; left: 710px; }
+    90% {top:60px; left: 730px; }
+    100% {top:150px; left: 710px; }
+}
+.mcveli1{
+    width: 70px;
+    position: relative;
+    top: -90px;
+    left: 400px;
+    animation-name:mcveli1; 
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes mcveli1{
+
+    0%{top:-90px; left: 400px; }
+    10% {top:-90px; left: 430px; }
+    15% {top:-120px; left: 425px; }
+    20% {top:-120px; left: 460px; }
+    25% {top:-120px; left: 520px; }
+    30% {top:-120px; left: 540px; }
+    35% {top:-120px; left: 540px; }
+    50% {top:-100px; left: 530px; }
+    60% {top:-90px; left: 530px;; }
+    70% {top:-80px; left: 530px;; }
+    80% {top:-70px; left: 530px; }
+    100% {top:-60px; left: 535px; }
+    
+
+}
+
+.mcveli2{
+    width: 140px;
+    position: relative;
+    top: -180px;
+    left: 500px;
+    animation-name:mcveli2; 
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+
+}
+
+@keyframes mcveli2{
+    0% {top:-110px; left: 500px; }
+    20%  {top:-110px; left: 510px; }
+    35% {top:-180px; left: 644px; }
+    40% {top:-185px; left: 680px; }
+    50%  {top:-180px; left: 685px; }
+    60% {top:-175px; left: 680px; }
+    70% {top:-150px; left: 670px; }
+    80% {top:-130px; left: 660px; }
+    90% {top:-110px; left: 650px; }
+    100% {top:-80px; left: 650px; 
+
+    
+
+}
+
+.angarishi{
+    width: 100px;
+    background-color: brown;
+    position: relative;
+    top: -350px;
+    left: 400px;
+    text-align: center;
+    animation-name: angarishi;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+
+}
+
+@keyframes angarishi{
+    20% {background-color: brown;}
+    80% {background-color: brown;}
+    90% {background-color:rgb(20, 148, 3) }
+    100% {background-color:rgb(20, 148, 3) }
+
+
+}
